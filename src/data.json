@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Are you satisfied with the product?"
+    },
+    {
+      "id": 2,
+      "text": "What is your opinion about customer service?"
+    },
+    {
+      "id": 3,
+      "text": "How would you rate the usability of the web site?"
+    },
+    {
+      "id": 4,
+      "text": "Would you recommend our product to others?"
+    },
+    {
+      "id": 5,
+      "text": "how would you evaluate the product quality?"
+    }
+  ]
+}
